@@ -1,0 +1,21 @@
+Kotelnikov
+Ivan
+Konst
+7 64 6346261754
+18 6 2007
+kot@mail.ru
+0
+Miroshnikov
+Daniil
+Aleksandrovich
+7 64 6347244367
+18 8 2007
+daniil@mail.ru
+2
+Kot
+Vanya
+Konst
+7 64 9342345665
+11 9 2007
+vanya@mail.ru
+2

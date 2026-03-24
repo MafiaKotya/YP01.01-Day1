@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="YP01.01-Day1.cpp">
+    <ClCompile Include="YP01.01-Day1Кот.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
