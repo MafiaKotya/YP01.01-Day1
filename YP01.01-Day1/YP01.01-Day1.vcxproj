@@ -125,10 +125,6 @@
   <ItemGroup>
     <ClCompile Include="YP01.01-Day1.cpp" />
   </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="Contact.h" />
-    <ClInclude Include="ContactManager.h" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
